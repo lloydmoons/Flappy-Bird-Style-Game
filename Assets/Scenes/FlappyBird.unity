@@ -1053,6 +1053,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverText: {fileID: 644896301}
+  scoreText: {fileID: 1691011720}
   gameOver: 0
   scrollSpeed: -1.5
 --- !u!4 &1852306120
